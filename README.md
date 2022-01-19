@@ -4,9 +4,13 @@
 <h1 align="center"> |ERROR PROBLEM FIXED| </h1>
 </p>
 
-![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220119-161131~2.png)
+![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220110-161131~2.png)
 
-![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220119-185853~2.png)
+![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220110-185853~2.png)
+
+<img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
+
+<h3 align="center">A Passionate Frontend Developer From Bangladesh</h3>
 
 <h1 align="center"> |MR.NIKI|</h1>
 
