@@ -23,20 +23,21 @@
 ## <b>installation</b>
 
 ```
-cd
-rm -rf BD-CRACK
-$ pkg update
-$ pkg upgrade
-$ pkg install python
-$ pkg install python2
-$ pip2 install requests
-$ pip2 install mechanize
-$ pkg install git
-$ git clone https://github.com/Niki404-Cyber/BD-CRACK.git
-$ cd BD-CRACK
-$ python2 BD-CRACK.py
+✳️ pkg update
+✳️ pkg upgrade
+✳️ pkg install python
+✳️ pkg install python2
+✳️ pip2 install requests
+✳️ pip2 install mechanize
+✳️ pkg install git
+✳️ git clone https://github.com/Niki404-Cyber/BD-CRACK
+✳️ cd BD-CRACK
+✳️ python2 BD-CRACK.py
 
-Note: (This Tools Are Free, So You No Need Permission To Use NIKI BD-CRACK Tools Enjoy)
+      ✳️USERNAME : NIKI
+      ✳️PASSWORD : CYBER
+
+💚Thank you For Using My Tools💚
 
 ```
 
