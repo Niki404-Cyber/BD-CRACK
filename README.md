@@ -4,9 +4,9 @@
 <h1 align="center"> |ERROR PROBLEM FIXED| </h1>
 </p>
 
-![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220119-185853~2.png)
-
 ![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220119-161131~2.png)
+
+![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220119-185853~2.png)
 
 <h1 align="center"> |MR.NIKI|</h1>
 
