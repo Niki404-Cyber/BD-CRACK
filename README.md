@@ -3,6 +3,9 @@
 
 <h1 align="center"> |ERROR PROBLEM FIXED| </h1>
 
+![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220119-185853~2.png)
+
+
 <h1 align="center"> |MR.NIKI|</h1>
 
 
@@ -37,6 +40,9 @@ $ cd BD-CRACK
 $ python2 BD-CRACK.py
 
 Note: (This Tools Are Free, So You No Need Permission To Use NIKI BD-CRACK Tools Enjoy)
+
+![20200808_160757](https://raw.githubusercontent.com/Niki404-Cyber/Niki404-Cyber/main/Screenshot_20220119-161131~2.png)
+
 ```
 
 # Single Command 
