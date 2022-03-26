@@ -1,26 +1,22 @@
 # BD-CRACK.
 <b></b> </br> <br>[![Github](https://img.shields.io/badge/Github-Niki404-Cyber-dimgray?style=flat-square&logo=github)](https://github.com/Niki404-Cyber)<br> [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/NIKI.CYBER404.OFFICIALS)<br> [![WhatsApp](https://img.shields.io/badge/WhatsApp-Mr.NIKI-blue?style=flat-square&logo=WhatsApp)](https://chat.whatsapp.com/IulgtTY1ao6HeowtyCFEGJ)
 
-<h1 align="center"> |ERROR PROBLEM FIXED| </h1>
+<h1 align="center"> ERROR PROBLEM FIXED </h1>
 
-<h1 align="center"> |MR.NIKI|</h1>
+<h1 align="center"> ADMIN : MR.NIKI</h1>
 
 
 
 <h2 align="center"> LOGIN WITH USERNAME & PASSWORD</h2>
 
 
-<p align="center">
-     NEW BD-CRACK CLONING
+<p align="center"> BANGLADESH FACEBOOK ID CLONE</h1>
 </p>
 
+<p align="center"> NEW BD-CRACK TOOLS</h1>
 
 
-<p align="center">
-              Mr.NIKI
-
-
-## <b>installation</b>
+## <b>Installation</b>
 
 ```
 ✳️ pkg update
