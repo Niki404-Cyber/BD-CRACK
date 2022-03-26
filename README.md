@@ -3,17 +3,13 @@
 
 <h1 align="center"> ERROR PROBLEM FIXED </h1>
 
-<h1 align="center"> ADMIN : MR.NIKI</h1>
+<h2 align="center"> ADMIN : Mr.NIKI</h2>
 
+<h3 align="center"> LOGIN WITH USERNAME & PASSWORD</h3>
 
+<h4 align="center"> BANGLADESH FACEBOOK ID CLONE</h4>
 
-<h2 align="center"> LOGIN WITH USERNAME & PASSWORD</h2>
-
-
-<p align="center"> BANGLADESH FACEBOOK ID CLONE</h1>
-</p>
-
-<p align="center"> NEW BD-CRACK TOOLS</h1>
+<h5 align="center"> NEW BD-CRACK TOOLS</h5>
 
 
 ## <b>Installation</b>
