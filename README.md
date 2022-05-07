@@ -39,6 +39,11 @@
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize; pkg install git ; git clone https://github.com/Niki404-Cyber/BD-CRACK.git ; cd BD-CRACK; python BD-CRACK.py
 ```
 
+![20200808_160757](https://github.com/Niki404-Cyber/Green-Lover/blob/main/Screenshot_20220119-185853~2.png)
+
+![20200808_160757](https://github.com/Niki404-Cyber/Green-Lover/blob/main/Screenshot_20220119-161131~2.png)
+
+
  Note: (This Tools Are Free, So You No Need Permission To Use NIKI BD-CRACK Tools Enjoy)</br>
  [![Facebook](https://img.shields.io/badge/Facebook-Mr.NIKI-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Tera.Bap.Ka.Link.Hain)</br>
  [CODED BY Mr. NIKI]
